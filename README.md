@@ -12,9 +12,7 @@ The aim of this project is to classify the skin cancer images into the following
 5) Actinic keratose</br>
 6) Vascular lesions</br>
 7) Dermatofibroma
-![Image description](category_sample.png)
-
-
+![Image description](category_sample.png)</br>
 ### Pre-Processing
 * Read the HAM10000_metadata.csv with pandas and append the image paths to the dataframe</br>
 * Append the cancer cell type names and indexes to the dataframe</br>
