@@ -19,3 +19,10 @@ The aim of this project is to classify the skin cancer images into the following
 * Check which rows are duplicates of the same image and append a column with the details </br>
 * Display the Statistical distributions of the data 
 * Save the dataframe into .csv file
+
+### Model
+* It is a Residual Neural Network with almost 50 layers.
+* Loss function we are using is categorical_crossentropy.
+* We are using Stochastic Gradient Descent (SGD) as the optimizer.
+* Graphs of the Training and validation losses, accuracies are ploted.
+
